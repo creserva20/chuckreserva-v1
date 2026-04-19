@@ -24,8 +24,8 @@ export const siteConfig = {
       skills: ["BGP", "IPv4", "IPv6", "Peering"]
     },
     {
-      name: "IPv6 Transition Mechanisms (NAT64, DNS64, 464XLAT)",
-      description: "Implemented IPv6-to-IPv4 translation using NAT64 and DNS64, along with 464XLAT (RFC 8781) for IPv4-only application compatibility. Utilized DNS64 discovery (RFC 7050) to enable seamless IPv6-only client access to IPv4 services.",
+      name: "IPv6-Mostly (RFC 8925)",
+      description: "Designed and implemented an IPv6-mostly network where clients operate in an IPv6-only preferred mode using Router Advertisements and policy-based behavior. Provided IPv4 compatibility via NAT64 and DNS64, with DNS64 prefix discovery (RFC 7050) as a fallback mechanism. Translation services implemented using Jool on Linux.",
       link: "#",
       skills: ["IPv6", "NAT64", "DNS64", "464XLAT"]
     },

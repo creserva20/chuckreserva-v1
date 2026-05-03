@@ -25,7 +25,7 @@ export const siteConfig = {
     },
     {
       name: "IPv6-Mostly (RFC 8925)",
-      description: "Designed and implemented an IPv6-mostly network where clients operate in an IPv6-only preferred mode using Router Advertisements and policy-based behavior. Provided IPv4 compatibility via NAT64 and DNS64, with DNS64 prefix discovery (RFC 7050) as a fallback mechanism. Translation services implemented using Jool on Linux.",
+      description: "Designed and implemented an IPv6-mostly network where clients operate in an IPv6-only preferred mode using Router Advertisements and policy-based behavior. Provided IPv4 compatibility using NAT64, DNS64, and 464XLAT (RFC 6877), combining stateful NAT64 with stateless translation for IPv4 service continuity. Used DNS64 prefix discovery (RFC 7050) as a fallback mechanism. Translation services implemented using Jool on Linux.",
       link: "#",
       skills: ["IPv6", "NAT64", "DNS64", "464XLAT"]
     },

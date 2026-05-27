@@ -53,9 +53,22 @@ export const siteConfig = {
         "Managed Cisco Next-Generation Firewalls (Firepower), ASA, and Firepower Management Center (FMC) to enforce access control, network segmentation, and threat prevention across enterprise environment.",
         "Supported Cisco Identity Services Engine (ISE) for 802.1X-based authentication, identity management, and device access control.",
         "Maintained and configured Cisco routers and Catalyst/Nexus switches, supporting campus LAN/WAN infrastructure and secure network connectivity.",
-        "Administered VPN solutions (IPSec, DMVPN, and AnyConnect) for secure remote access and site-to-site communications.",
+        "Administered VPN solutions (IPSec, and AnyConnect) for secure remote access and site-to-site communications.",
         "Performed firmware upgrades, security patching, and configuration changes in high-availability environments with minimal service disruption.",
         "Collaborated with customer IT teams to implement network security best practices, provide technical documentation, and troubleshoot complex connectivity and security issues.",
+      ],
+    },
+    {
+      company: "Levi, Ray & Shoup (LRS)",
+      title: "Network Consultant",
+      dateRange: "December 2016 - February 2018",
+      bullets: [
+        "Delivered network consulting and technical support for SMB and education-sector client.",
+        "Designed and deployed LAN/WAN infrastructure using Cisco Catalyst 3650/3850 switches and Cisco ISR routers.",
+        "Configured OSPF routing, VLAN segmentation, inter-VLAN routing, and QoS to support VoIP and data traffic.",
+        "Performed network infrastructure upgrades, including switch and router replacements, firmware upgrades, and configuration migrations.",
+        "Assisted with firewall troubleshooting, VPN configuration, and network/server documentation.",
+        "Collaborated with cross-functional teams to resolve complex networking, systems, and cloud integration issues.",
       ],
     },
     {
